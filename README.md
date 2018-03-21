@@ -24,3 +24,6 @@ sudo apt-get install python3-tk
 
 `python3 oh_friendCountByYear.py`
 
+## Result
+
+![Example graph](https://github.com/EspressoTime/Facebook-Archive-Analyzer/blob/master/example.png?raw=true)
